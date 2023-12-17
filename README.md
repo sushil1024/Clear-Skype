@@ -3,6 +3,7 @@ Delete skype messages and leave every skype group of user.
 
 # Description
 EXE file that deletes skype messages and leaves every skype groups of a user.
+This tool logs whether the tool has worked on the user.
 
 # Requirements
 pyinstaller==6.3.0
